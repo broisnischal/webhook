@@ -19,7 +19,9 @@ export default [
         route('/', "routes/api/index.tsx"),
         route("webhooks/stripe", "routes/api/webhook.tsx"),
         route("webhooks/github", "routes/api/webhook.github.tsx"),
+        route("webhooks/custom", "routes/api/custom-webhook.tsx"),
     ]),
 
     route("shop", "routes/shop.tsx"),
+    route("custom", "routes/custom.tsx"),
 ] satisfies RouteConfig;
