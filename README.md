@@ -1,0 +1,4 @@
+# tailwind
+
+FIGMA_CLIENT_ID="8d8nnQmEjz7c0yaCtvt6FF"
+FIGMA_CLIENT_SECRET="ndOzbCGf5ymHZjbP7K4Wjj3mRD9yQv"
